@@ -120,3 +120,15 @@ nav ul li {
     transition: opacity 0.4s ease-in;
     height: 10px;
 }
+
+.about-hero {
+    background-color: black;
+    color: white;
+}
+
+.about-h1 {
+    color: white;
+    font-weight: bolder;
+    font-weight: 'Raleway', sans-serif;
+}
+    
